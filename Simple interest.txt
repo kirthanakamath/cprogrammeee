@@ -1,0 +1,15 @@
+#include<stdio.h>  
+int main()   
+    {   
+        float p, r, t, si;  
+       p=15000; r=25;  t=10;  
+        si=(p*r*t)/100;   
+        printf("\n\n Simple Interest is : %f", si);  
+        return (0);  
+    }  
+
+//OUTPUT
+ Simple Interest is : 37500.000000
+
+...Program finished with exit code 0
+Press ENTER to exit console.
